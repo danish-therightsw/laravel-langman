@@ -1,8 +1,8 @@
 {
-    "name": "themsaid/laravel-langman",
+    "name": "danish-therightsw/laravel-langman",
     "description": "Manage language files with ease.",
     "keywords": ["laravel", "localization", "multilingual"],
-    "homepage": "https://github.com/themsaid/laravel-langman",
+    "homepage": "https://github.com/danish-therightsw/laravel-langman",
     "license": "MIT",
     "authors": [
         {
